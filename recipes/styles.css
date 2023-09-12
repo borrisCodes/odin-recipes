@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color:white;
+    font-family: "Courier", sans-serif;
+}
+
+img {
+    width: 650px;
+    height:auto;
+    padding-left: 129px;
+}
+
+.important {
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:35px;
+}
