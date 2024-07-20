@@ -1,0 +1,49 @@
+*{
+    background-color: black;
+    color:white;
+    padding-bottom:5px;
+}
+
+h1{
+    text-align:center;
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+h2{
+    font-size:30px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.steps,
+.ingredients{
+    text-align: center;
+}
+
+.steps ol,
+.ingredients ul{
+    display:inline-block;
+    text-align: left;
+}
+
+ul{
+    list-style-type: none;
+    padding:0;
+}
+
+li,
+p{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
